@@ -125,6 +125,15 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "jud",
+      "species": "hippo",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "13"
     }
   ]
 }
